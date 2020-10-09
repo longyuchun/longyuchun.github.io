@@ -3,29 +3,49 @@ h1{
 	color:#009FCC;
 	font-size: 22px;
 }
-body{
-	background-color:#99BBFF;
-}
 h2{
 	color:#009FCC;
 	font-size: 14px;
 }
 *{
 	margin:0;
-	padding: 50px
+	padding: 20px
 }
-img{
-	float:left;
-	width: 360px;
-}
+
 body{
-	line-height: 20px
+	line-height: 50px
 }
-div.one-end,.two-end{
-	clear:both;
+
+div.background1{
+	width:600px;
+	background: url('images/微信图片_20200926185527.jpg') no-repeat;
+	border:1px solid black;
+	border-radius: 10px;
 }
-div.one,.two{
-	border-width: 5px
-	border-color:white;
-	border-style: solid;
+div.one{width:540px;
+	margin-left:auto;
+	margin-right: auto;
+	background-color:white;
+	border: 1px solid black;
+	opacity:0.6;
+	border-radius: 10px;
+
+}
+div.background{
+	width:600px;
+	background:url('images/微信图片_20200926185511.jpg') no-repeat;
+	border:1px solid black;
+	border-radius: 10px
+}
+div.two{
+	width:540px;
+	margin-left:auto;
+	margin-right: auto;
+	background-color:white;
+	border: 1px solid black;
+	opacity:0.6;
+	border-radius: 10px;
+}
+div.two p{
+	margin:20px;
 }
