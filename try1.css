@@ -21,8 +21,10 @@ img{
 body{
 	line-height: 20px
 }
-div.one-end{
+div.one-end,.two-end{
 	clear:both;
+}
+div.one,.two{
 	border-width: 5px
 	border-color:white;
 	border-style: solid;
