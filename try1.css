@@ -1,6 +1,6 @@
 
 h1{
-	color:#33CCFF;
+	color:#009FCC;
 	font-size: 22px;
 }
 body{
@@ -23,4 +23,7 @@ body{
 }
 div.one-end{
 	clear:both;
+	border-width: 5px
+	border-color:white;
+	border-style: solid;
 }
