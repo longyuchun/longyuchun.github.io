@@ -15,8 +15,8 @@ h2{
 	padding: 50px
 }
 img{
+	float:left;
 	width: 540px;
-	height: 960px;
 }
 body{
 	line-height: 5px
