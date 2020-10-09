@@ -1,6 +1,4 @@
 
-<try1.css>
-
 h1{
 	color:#33CCFF;
 	font-size: 22px;
@@ -19,4 +17,7 @@ h2{
 img{
 	width: 540px;
 	height: 960px;
+}
+body{
+	line-height: 5px
 }
