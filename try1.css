@@ -16,8 +16,11 @@ h2{
 }
 img{
 	float:left;
-	width: 540px;
+	width: 360px;
 }
 body{
 	line-height: 20px
+}
+div.one-end{
+	clear:both;
 }
