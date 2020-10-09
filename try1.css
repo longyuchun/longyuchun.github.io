@@ -1,0 +1,22 @@
+
+<try1.css>
+
+h1{
+	color:#33CCFF;
+	font-size: 22px;
+}
+body{
+	background-color:#99BBFF;
+}
+h2{
+	color:#009FCC;
+	font-size: 14px;
+}
+*{
+	margin:0;
+	padding: 50px
+}
+img{
+	width: 540px;
+	height: 960px;
+}
