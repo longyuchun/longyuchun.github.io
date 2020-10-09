@@ -1,11 +1,11 @@
 
 h1{
-	color:#009FCC;
-	font-size: 22px;
+	color:black;
+	font-size: 24px;
 }
 h2{
 	color:#009FCC;
-	font-size: 14px;
+	font-size: 20px;
 }
 *{
 	margin:0;
@@ -13,10 +13,12 @@ h2{
 }
 
 body{
-	line-height: 50px
+	line-height: 50px;
+	background-color:#BBFFEE;
 }
 
 div.background1{
+	margin: 10px;
 	width:600px;
 	background: url('images/微信图片_20200926185527.jpg') no-repeat;
 	border:1px solid black;
@@ -32,6 +34,7 @@ div.one{width:540px;
 
 }
 div.background{
+	margin: 10px;
 	width:600px;
 	background:url('images/微信图片_20200926185511.jpg') no-repeat;
 	border:1px solid black;
@@ -48,4 +51,7 @@ div.two{
 }
 div.two p{
 	margin:20px;
+}
+div.introduction{
+	margin:10px;
 }
