@@ -1,0 +1,55 @@
+div.background1{
+	margin: 10px;
+	width:900px;
+	background: url('images/微信图片_20200926185527.jpg') no-repeat;
+	border:1px solid black;
+	border-radius: 10px;
+}
+div.one{width:600px;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color:white;
+	border: 1px solid black;
+	opacity:0.6;
+	border-radius: 10px;
+
+}
+div.one p{
+	margin:20px;
+}
+h2{
+	color:#009FCC;
+	font-size: 20px;
+}
+body{
+	line-height: 50px
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+}
+
+#nav{
+	width:200px;
+	height:300px;
+	background-color:#BBFFEE;
+	position:absolute;
+	left:5px; 
+	top:20px;
+}
+#content{
+	width:800px;
+	left:300px;
+	position: relative;
+}
+#nav,#content{
+	display: block;
+}
+*{
+	margin:0;
+	padding: 20px;
+}
